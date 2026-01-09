@@ -30,5 +30,3 @@ Future Enhancements
 - Add predictive analytics for attrition forecasting.
 - Integrate real-time data sources.
 - Expand filters for deeper drill-downs (e.g., location, tenure).
-
-Let me know if you'd like help customizing the tone, adding a license, or writing a contribution guide!
